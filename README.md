@@ -6,6 +6,8 @@ Termux : pkg install golang
 
 Run in Linux/Termux
 
+pkg install git
+
 git clone https://github.com/amirhosseinniksefat/sms
 
 cd sms
