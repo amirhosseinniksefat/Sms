@@ -8,7 +8,7 @@ Run in Linux/Termux
 
 git clone https://github.com/amirhosseinniksefat/Sms
 
-cd iran-bomber
+cd sms
 
 go run sms.go
 
